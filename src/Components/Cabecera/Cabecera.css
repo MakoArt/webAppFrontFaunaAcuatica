@@ -1,0 +1,13 @@
+.container-fluid{background:linear-gradient(90deg,#023859 ,#012840);
+                 height: 1400px;
+}
+#cabecera{
+
+border:3px solid black;
+box-shadow:5px 5px 9px black;
+background:linear-gradient(45deg ,#03588C , #012840 );
+color:black;
+border-radius:9px
+
+}
+h1{text-shadow:5px 5px 9px black}
